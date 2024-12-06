@@ -99,6 +99,5 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate</code></pre>
     <p>Please make sure to write tests and ensure that the application runs smoothly after changes.</p>
 
   <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
    <h2>Thank you for checking out the Diet Recommendation System!</h2>
